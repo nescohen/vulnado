@@ -1,2 +1,1 @@
 tools = [ "infer" ]
-inferAnalyzeFlags = [ "--keep-going", "--debug-level", "2", "--debug", "--quandary-only" ]

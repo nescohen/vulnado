@@ -1,4 +1,5 @@
 {
+  "--quandary-only",
   "quandary-sources": [
     {
       "procedure": "com.scalesec.vulnado.LoginController.validateLoginRequest",
